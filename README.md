@@ -1,2 +1,2 @@
 # Classerver
-An utility for ComputerCraft academies.
+An utility for ComputerCraft academies..
